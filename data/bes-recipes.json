@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Mapo Tofu",
+    "img": "https://i.ibb.co/2Ys8sCN/Mapo-Tofu.jpg",
+    "description": "Mapo tofu is a popular Chinese dish from the Sichuan province. It is a spicy and flavorful dish made with tofu and ground pork, seasoned with a blend of Sichuan peppercorns, chili bean paste, and fermented black beans. Served over steamed rice, it is a comforting and satisfying meal."
+  },
+  {
+    "id": 2,
+    "name": "Kung Pao Chicken",
+    "img": "https://i.ibb.co/TgJtPWW/Kung-Pao-Chicken.jpg",
+    "description": "Kung Pao chicken is a classic Sichuan dish that is both sweet and spicy. It is made with marinated chicken, stir-fried with peanuts, scallions, and dried red chili peppers. The dish is seasoned with a combination of soy sauce, vinegar, sugar, and Sichuan peppercorns, giving it a complex flavor profile."
+  },
+  {
+    "id": 3,
+    "name": "Hot and Sour Soup",
+    "img": "https://i.ibb.co/0nPrh9X/Hot-and-Sour-Soup.jpg",
+    "description": "Hot and sour soup is a staple in Chinese cuisine. It is a tangy and spicy soup made with chicken or pork broth, tofu, bamboo shoots, and wood ear mushrooms. The soup is seasoned with vinegar, soy sauce, and white pepper, giving it a distinctive sour and spicy flavor."
+  },
+  {
+    "id": 4,
+    "name": "Beijing Duck",
+    "img": "https://i.ibb.co/hc48P00/Beijing-Duck.jpg",
+    "description": "Beijing duck is a famous dish from Beijing. It is made with a whole duck that is roasted until the skin is crispy and golden brown. The duck is served with thin pancakes, scallions, and a sweet bean sauce. The dish is both savory and sweet, with a rich flavor and crispy texture."
+  },
+  {
+    "id": 5,
+    "name": "Dumplings",
+    "img": "https://i.ibb.co/Y7XzYFJ/Dumplings.jpg",
+    "description": "Dumplings are a popular Chinese food that come in many varieties. They are made with a thin layer of dough that is filled with meat, vegetables, or seafood. The dumplings are then steamed or fried, and served with a dipping sauce. They are a comforting and satisfying food that is perfect for any occasion."
+  },
+  {
+    "id": 6,
+    "name": "Ma La Xiang Guo",
+    "img": "https://i.ibb.co/7JHHh0s/Ma-La-Xiang-Guo.jpg",
+    "description": "Ma la xiang guo is a spicy dish from the Sichuan province. It is made with a variety of meats and vegetables, stir-fried with Sichuan peppercorns, dried red chili peppers, and other spices. The dish is known for its numbing and spicy flavor, and is often served with steamed rice."
+  },
+  {
+    "id": "7",
+    "name": "Sichuan Hot Pot",
+    "img": "https://i.ibb.co/tJpj0ZX/sichuan-hotpot.jpg",
+    "description": "Sichuan Hot Pot is a popular Chinese dish that features a simmering pot of broth, surrounded by plates of raw meats, vegetables, and other ingredients that are cooked by diners at the table. The broth is flavored with a combination of Sichuan peppercorns, chili peppers, and other spices, giving it a spicy and numbing flavor that is both addictive and satisfying."
+  },
+  {
+    "id": 8,
+    "name": "Dan Dan Noodles",
+    "img": "https://i.ibb.co/FsZkYSd/dan-dan-noodles.jpg",
+    "description": "Dan Dan Noodles are a popular and spicy Chinese noodle dish that originated from Sichuan cuisine. The dish consists of a spicy sauce made with preserved vegetables, chili oil, Sichuan peppercorns, and minced pork, which is then poured over a bed of egg noodles. The dish is typically garnished with scallions and sesame seeds."
+  },
+  {
+    "id": 9,
+    "name": "Szechuan Fish",
+    "img": "https://i.ibb.co/FWfLwwv/szechuan-fish.jpg",
+    "description": "Szechuan Fish is a popular and flavorful Chinese fish dish that originates from Sichuan cuisine. The fish is typically marinated in a spicy sauce made with chili oil, Sichuan peppercorns, garlic, and ginger, and then stir-fried with vegetables such as peppers and onions. The dish is known for its bold and spicy flavor, and is often served with steamed rice."
+  },
+  {
+    "id": 10,
+    "name": "Crab Rangoon",
+    "img": "https://i.ibb.co/9y8QjLy/crab-rangoon.jpg",
+    "description": "Crab Rangoon is a popular Chinese-American appetizer that consists of a crispy wonton wrapper filled with a mixture of cream cheese, crab meat, garlic, and scallions. The dish is often served with a sweet and sour dipping sauce, and is a favorite at Chinese restaurants and takeout places across the country."
+  }
+]
