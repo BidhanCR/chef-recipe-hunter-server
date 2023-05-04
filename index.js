@@ -3,6 +3,7 @@ const app = express();
 const cors = require("cors");
 const port = process.env.PORT || 5000;
 const chefs = require("./data/chefs.json");
+const recipes = require("./data/our-recipes.json");
 
 app.use(cors());
 
@@ -15,6 +16,11 @@ app.get("/chefs/:id", (req, res) => {
   const chef = chefs.find((n) => n.id === id);
   res.send(chef);
 });
+
+app.get("/recipes", (req, res)=> {
+  res.send(recipes);
+})
+
 
 app.listen(port, () => {
   console.log(`FoodieFrenzy is running on port: ${port}`);
