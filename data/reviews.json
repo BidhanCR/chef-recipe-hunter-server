@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "name": "John Doe",
+    "rating": 4.5,
+    "image": "https://e7.pngegg.com/pngimages/456/700/png-clipart-computer-icons-avatar-user-profile-avatar-heroes-logo-thumbnail.png",
+    "favorite_dishes": ["Kung Pao Chicken", "Hot and Sour Soup"],
+    "reviews": "The Kung Pao chicken here is amazing! The flavors are perfectly balanced and the chicken is always tender. The hot and sour soup is also a must-try, with just the right amount of spice and tanginess."
+  },
+  {
+    "id": "2",
+    "name": "Jane Smith",
+    "rating": 5,
+    "image": "https://e7.pngegg.com/pngimages/456/700/png-clipart-computer-icons-avatar-user-profile-avatar-heroes-logo-thumbnail.png",
+    "favorite_dishes": ["Mapo Tofu", "Xiao Long Bao"],
+    "reviews": "I absolutely love the Mapo Tofu here - it's so flavorful and spicy! The xiao long bao are also a must-try, with the soup inside bursting with flavor."
+  },
+  {
+    "id": "3",
+    "name": "John Doe",
+    "rating": 4.5,
+    "image": "https://e7.pngegg.com/pngimages/456/700/png-clipart-computer-icons-avatar-user-profile-avatar-heroes-logo-thumbnail.png",
+    "favorite_dishes": [
+      "Dan Dan Noodles",
+      "Kung Pao Chicken"
+    ],
+    "reviews": "The Dan Dan Noodles was amazing, it had the perfect balance of sweet and sour flavors. The Kung Pao chicken was also great, with the perfect amount of spice."
+  },
+  {
+    "id": "4",
+    "name": "Jane Smith",
+    "rating": 4.2,
+    "image": "https://e7.pngegg.com/pngimages/456/700/png-clipart-computer-icons-avatar-user-profile-avatar-heroes-logo-thumbnail.png",
+    "favorite_dishes": [
+      "Mapo Tofu",
+      "Dumplings"
+    ],
+    "reviews": "The Mapo Tofu was so flavorful and the texture of the tofu was perfect. The dumplings were also delicious, with a perfectly cooked wrapper and a flavorful filling."
+  },
+  {
+    "id": "5",
+    "image": "https://e7.pngegg.com/pngimages/456/700/png-clipart-computer-icons-avatar-user-profile-avatar-heroes-logo-thumbnail.png",
+    "name": "Bob Johnson",
+    "rating": 4.8,
+    "favorite_dishes": [
+      "Beijing Roast Duck",
+      "Hot and Sour Soup"
+    ],
+    "reviews": "The Beijing Roast Duck was absolutely amazing, with crispy skin and tender meat. The hot and sour soup was also great, with just the right amount of spice and sourness."
+  },
+  {
+    "id": "6",
+    "name": "John Smith",
+    "rating": 4.2,
+    "image": "https://e7.pngegg.com/pngimages/456/700/png-clipart-computer-icons-avatar-user-profile-avatar-heroes-logo-thumbnail.png",
+    "favorite_dishes": [
+      "Mapo Tofu",
+      "Dumplings"
+    ],
+    "reviews": "The Mapo Tofu was so flavorful and the texture of the tofu was perfect. The dumplings were also delicious, with a perfectly cooked wrapper and a flavorful filling."
+  }
+]
