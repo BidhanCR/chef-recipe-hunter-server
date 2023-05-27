@@ -28,5 +28,5 @@ app.get("/reviews", (req, res)=>{
 
 
 app.listen(port, () => {
-  console.log(`FoodieFrenzy is running on port: ${port}`);
+  console.log(`FoodieFrenzy server is running on Port: ${port}`);
 });
